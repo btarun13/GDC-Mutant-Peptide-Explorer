@@ -1,0 +1,8 @@
+# Pinned after checking PyPI on 2026-10-13. Python 3.11.
+mhcflurry==2.3.14
+streamlit==1.65.0
+pandas>=2.0
+pyarrow>=14  # parquet prediction cache
+requests>=2.31
+pytest>=8
+ruff>=0.6
